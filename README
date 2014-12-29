@@ -1,0 +1,11 @@
+This pred_prey project is based on the NEAT software developped by 
+Stanley and Miikkulainen (2002). See http://nn.cs.utexas.edu/keyword?neat-c
+for the original distribution of the NEAT.
+
+This is a github copy of the pred-prey project. 
+The original repo for this project can be found under my bitbucket account 
+(https://bitbucket.org/hiranumn/neatxcode)
+
+See gecco_predprey_2014.pdf for more detailed description of this project. 
+
+This project requires SFML2.1 installed on your machine to run.
